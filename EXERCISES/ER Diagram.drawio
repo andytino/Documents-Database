@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T09:05:27.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1BHqQ9Aind6JWPA8fLzh" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T09:09:53.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="O3ITrsBxNDyT7jAtUM0R" version="20.1.1" type="github">
   <diagram id="6r0_a1HDc3w-jd7aQ7qa" name="Page-1">
     <mxGraphModel dx="1130" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -513,8 +513,8 @@
         <mxCell id="3ivktyzrM6rxTPIfOIyR-260" value="* Sản phẩm: gồm nhiều vật cùng loại có cùng mã sản phẩm hoặc 01 vật duy nhất có mã sản phẩm riêng. Vì vậy số lượng có thể lớn 1." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=10;fontColor=default;" parent="3ivktyzrM6rxTPIfOIyR-263" vertex="1">
           <mxGeometry x="510.5" y="308" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3ivktyzrM6rxTPIfOIyR-261" value="* Loại sản phẩm:&amp;nbsp; gồm nhiều mã sản phẩm cùng loại. Ví dụ: loại dầu gội, loại &lt;br&gt;sữa tắm, ..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=10;fontColor=default;" parent="3ivktyzrM6rxTPIfOIyR-263" vertex="1">
-          <mxGeometry x="532" y="670" width="188.5" height="30" as="geometry" />
+        <mxCell id="3ivktyzrM6rxTPIfOIyR-261" value="* Loại sản phẩm:&amp;nbsp; gồm nhiều mã sản phẩm cùng loại. Ví dụ: loại dầu gội, loại sữa tắm, ..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=10;fontColor=default;" parent="3ivktyzrM6rxTPIfOIyR-263" vertex="1">
+          <mxGeometry x="532" y="670" width="208" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3ivktyzrM6rxTPIfOIyR-262" value="* Tuỳ vào loại khách hàng mà chính sách ưu đãi sẽ áp dụng % trừ tiền" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=10;fontColor=default;" parent="3ivktyzrM6rxTPIfOIyR-263" vertex="1">
           <mxGeometry x="957.81" y="300.5" width="124.38" height="45" as="geometry" />
