@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T14:34:45.394Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VgGMKKQtxh-TOdYwzeUa" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T14:44:22.849Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LisH11PXepJz7OI4_PGM" version="20.1.1" type="github">
   <diagram id="6r0_a1HDc3w-jd7aQ7qa" name="Page-1">
     <mxGraphModel dx="946" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -515,7 +515,7 @@
           <mxGeometry x="532" y="670" width="208" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3ivktyzrM6rxTPIfOIyR-262" value="* Tuỳ vào loại khách hàng mà chính sách ưu đãi sẽ áp dụng % trừ tiền" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=10;fontColor=default;" parent="3ivktyzrM6rxTPIfOIyR-263" vertex="1">
-          <mxGeometry x="957.81" y="300.5" width="124.38" height="45" as="geometry" />
+          <mxGeometry x="628" y="245" width="124.38" height="45" as="geometry" />
         </mxCell>
         <mxCell id="3ivktyzrM6rxTPIfOIyR-203" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;strokeColor=default;" parent="3ivktyzrM6rxTPIfOIyR-263" source="3ivktyzrM6rxTPIfOIyR-204" target="3ivktyzrM6rxTPIfOIyR-254" edge="1">
           <mxGeometry relative="1" as="geometry" />
