@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T14:32:42.025Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B8y6hKozsD09vCbN2i76" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T14:33:22.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4gag078NrlN9MN0z7Ek6" version="20.1.1" type="github">
   <diagram id="6r0_a1HDc3w-jd7aQ7qa" name="Page-1">
     <mxGraphModel dx="946" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -414,7 +414,7 @@
         <mxCell id="3ivktyzrM6rxTPIfOIyR-241" value="Nhân viên&lt;br&gt;(NV)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="3ivktyzrM6rxTPIfOIyR-263" vertex="1">
           <mxGeometry x="140.5" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3ivktyzrM6rxTPIfOIyR-242" value="(1,n)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" parent="3ivktyzrM6rxTPIfOIyR-263" vertex="1">
+        <mxCell id="3ivktyzrM6rxTPIfOIyR-242" value="(0,n)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=9;fontColor=default;" parent="3ivktyzrM6rxTPIfOIyR-263" vertex="1">
           <mxGeometry x="260.5" y="90" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ivktyzrM6rxTPIfOIyR-243" value="Loại sản phẩm&lt;br&gt;(LSP)*" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="3ivktyzrM6rxTPIfOIyR-263" vertex="1">
