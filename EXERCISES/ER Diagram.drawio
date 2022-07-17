@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T01:47:14.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UXtZxWBRPKCtQg8Aq7QO" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-17T01:48:41.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qxEHxcxxbuaSSQ5vnD8z" version="20.1.1" type="github">
   <diagram id="6r0_a1HDc3w-jd7aQ7qa" name="Page-1">
-    <mxGraphModel dx="701" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DVV-10IRJFf22m86ulkG-14" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="541.5" y="-200" width="720" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ZfrfC6KWoSxyhGD6x70b-1" value="" style="group" vertex="1" connectable="0" parent="DVV-10IRJFf22m86ulkG-14">
+        <mxCell id="ZfrfC6KWoSxyhGD6x70b-1" value="" style="group" parent="DVV-10IRJFf22m86ulkG-14" vertex="1" connectable="0">
           <mxGeometry x="408.5" y="-380" width="761.5" height="290" as="geometry" />
         </mxCell>
         <mxCell id="DVV-10IRJFf22m86ulkG-2" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="ZfrfC6KWoSxyhGD6x70b-1" vertex="1">
@@ -523,11 +523,14 @@
         <mxCell id="0BShC6sN-ALmjxO3_wLX-128" value="số ngăn" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" parent="3ivktyzrM6rxTPIfOIyR-263" vertex="1">
           <mxGeometry x="821.7499999999999" y="293.5" width="52.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ZfrfC6KWoSxyhGD6x70b-2" value="&amp;nbsp;THÔNG TIN SINH VIÊN&lt;br&gt;-&amp;nbsp;21880277: Phan Việt Thắng&lt;br&gt;-&amp;nbsp;21880223: Trương Nguyễn Phú Hưng" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZfrfC6KWoSxyhGD6x70b-2" value="&lt;b&gt;&amp;nbsp;THÔNG TIN SINH VIÊN&lt;br&gt;&lt;/b&gt;-&amp;nbsp;21880277: Phan Việt Thắng&lt;br&gt;-&amp;nbsp;21880223: Trương Nguyễn Phú Hưng" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="-320" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZfrfC6KWoSxyhGD6x70b-3" value="&lt;b&gt;ĐẶC TẢ HỆ THỐNG&lt;br&gt;&lt;br&gt;&lt;/b&gt;Siêu thị được cung ứng sản phẩm từ nhiều nhà cung cấp.&lt;br&gt;Mỗi nhà cung cấp có mã nhà cung cấp, tên, địa chỉ, số điện thoại&lt;br&gt;Nhân viên xuất phiếu nhập cho sản phẩm. Mỗi phiếu nhập có mã phiếu nhập, ngày nhập, nhà cung cấp, các sản phẩm và số lượng của chúng, tổng tiền,...&lt;br&gt;Các sản phẩm được bố trí trên quầy hàng. &lt;br&gt;Mỗi quầy hàng có thông tin vị trí quầy để phân biệt với các quầy khác và số ngăn của quầy.&lt;br&gt;Mỗi sản phẩm có mã sản phẩm, tên sản phẩm, hãng sản xuất, loại sản phẩm, thông tin quầy trưng bày.&lt;br&gt;Loại sản phẩm có mã loại sản phẩm&lt;br&gt;Hãng sản xuất có mã nhà sản xuất.&lt;br&gt;Nhân viên xuất hoá đơn. Hoá đơn có số hoá đơn, thông tin ngày mua, các sản phẩm và số lượng được mua, tổng tiền.&lt;br&gt;Mỗi khách hàng được chia thành nhiều loại khách hàng.&amp;nbsp;&lt;br&gt;Thông tin khách hàng bao gồm mã khách hàng, tên khách hàng, cmnd, ngày sinh và loại khách hàng tương ứng.&lt;br&gt;Mỗi loại khách hàng có một chính sách ưu đãi. Khi mua sản phẩm, tuỳ vào loại khách hàng mà hoá đơn của khách hàng đó sẽ được trừ tiền theo phần trăm trừ tiền mà chính sách ưu đãi tương ứng quy định.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;spacingTop=0;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-240" width="750" height="250" as="geometry" />
+        <mxCell id="ZfrfC6KWoSxyhGD6x70b-3" value="&lt;b style=&quot;&quot;&gt;ĐẶC TẢ HỆ THỐNG&lt;br&gt;&lt;/b&gt;Siêu thị được cung ứng sản phẩm từ nhiều nhà cung cấp.&lt;br&gt;Mỗi nhà cung cấp có mã nhà cung cấp, tên, địa chỉ, số điện thoại&lt;br&gt;Nhân viên xuất phiếu nhập cho sản phẩm. Mỗi phiếu nhập có mã phiếu nhập, ngày nhập, nhà cung cấp, các sản phẩm và số lượng của chúng, tổng tiền,...&lt;br&gt;Các sản phẩm được bố trí trên quầy hàng. &lt;br&gt;Mỗi quầy hàng có thông tin vị trí quầy để phân biệt với các quầy khác và số ngăn của quầy.&lt;br&gt;Mỗi sản phẩm có mã sản phẩm, tên sản phẩm, hãng sản xuất, loại sản phẩm, thông tin quầy trưng bày.&lt;br&gt;Loại sản phẩm có mã loại sản phẩm&lt;br&gt;Hãng sản xuất có mã nhà sản xuất.&lt;br&gt;Nhân viên xuất hoá đơn. Hoá đơn có số hoá đơn, thông tin ngày mua, các sản phẩm và số lượng được mua, tổng tiền.&lt;br&gt;Mỗi khách hàng được chia thành nhiều loại khách hàng.&amp;nbsp;&lt;br&gt;Thông tin khách hàng bao gồm mã khách hàng, tên khách hàng, cmnd, ngày sinh và loại khách hàng tương ứng.&lt;br&gt;Mỗi loại khách hàng có một chính sách ưu đãi. Khi mua sản phẩm, tuỳ vào loại khách hàng mà hoá đơn của khách hàng đó sẽ được trừ tiền theo phần trăm trừ tiền mà chính sách ưu đãi tương ứng quy định.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;spacingTop=0;textDirection=ltr;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-250" width="750" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="iy401uuTHfp1PuXshNFu-1" value="MÔ HÌNH ER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
