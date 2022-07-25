@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T13:24:22.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KENlC465kyAHaBYjLX0w" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T13:32:02.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4mcP2cF7fqC8dhq3k67I" version="20.1.1" type="github">
   <diagram id="HZ95XB72LbMbbIZSBHjl" name="Page-1">
     <mxGraphModel dx="1183" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -511,11 +511,26 @@
             <mxPoint x="150" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t_XmNheDpT8PTCENix25-182" value="Người thuê (&lt;u&gt;Mã người thuê&lt;/u&gt;, tên, địa chỉ, số điện thoại, khả năng thuê, Mã CN, Mã Loại nhà" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1070" width="510" height="30" as="geometry" />
+        <mxCell id="t_XmNheDpT8PTCENix25-182" value="Người thuê (&lt;u&gt;NT01&lt;/u&gt;, Nguyễn Văn A, TPHCM, 0909123456, Có, CN01, LN01)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1070" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t_XmNheDpT8PTCENix25-183" value="Chi nhánh (&lt;u&gt;Mã CN&lt;/u&gt;, Đường, Quận, Khu vực, Thành phố, Số điện thoại, Số fax)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="67" y="1100" width="440" height="30" as="geometry" />
+        <mxCell id="t_XmNheDpT8PTCENix25-183" value="Chi nhánh (&lt;u&gt;CN01&lt;/u&gt;, Hoàng Văn Thụ, Quận Tân Bình, 4, TPHCM, 0909876543, 0909876543)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="67" y="1100" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t_XmNheDpT8PTCENix25-184" value="Nhân viên (&lt;u&gt;NV01&lt;/u&gt;, Nguyễn Văn B, TPHCMỉ, 090965432,Nam , 01/01/1990, 8.000.000, CN01" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="67" y="1120" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t_XmNheDpT8PTCENix25-185" value="Nhà (&lt;u&gt;MN01&lt;/u&gt;, Tân Bình, Phạm Văn Hai, TPHCM, 4, Số phòng, 7.500.000, LN01, NV01, CN01)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="68" y="1139" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t_XmNheDpT8PTCENix25-186" value="Loại nhà (LN01&lt;u&gt;,&lt;/u&gt;&amp;nbsp;Nhà 1 lầu)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="68" y="1160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t_XmNheDpT8PTCENix25-187" value="Chủ nhà (&lt;u&gt;CHN01&lt;/u&gt;, Nguyễn Văn C, TPHCM, 0909876234, MN01)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1190" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t_XmNheDpT8PTCENix25-188" value="Lịch sử xem nhà (NT01&lt;u&gt;, MN01&lt;/u&gt;, 25/07/2022, nhà nhỏ)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="68" y="1210" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
