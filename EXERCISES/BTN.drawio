@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T13:07:38.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2YLzjCuWdcoQNDBpjPqF" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T13:07:51.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gcGhSkLbg7kD8tz5RPzq" version="20.1.1" type="github">
   <diagram id="HZ95XB72LbMbbIZSBHjl" name="Page-1">
     <mxGraphModel dx="901" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
         <mxCell id="t_XmNheDpT8PTCENix25-65" value="làm việc&lt;br&gt;tại" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="647" y="320" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="t_XmNheDpT8PTCENix25-69" value="&lt;u&gt;Mã Chủ nhà&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="t_XmNheDpT8PTCENix25-69" value="&lt;u style=&quot;font-size: 9px;&quot;&gt;Mã Chủ nhà&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="584" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_XmNheDpT8PTCENix25-75" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.648;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=10;fontColor=default;endArrow=none;strokeColor=default;" edge="1" parent="1" source="t_XmNheDpT8PTCENix25-70" target="t_XmNheDpT8PTCENix25-3">
@@ -216,7 +216,7 @@
         <mxCell id="t_XmNheDpT8PTCENix25-76" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.849;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=10;fontColor=default;endArrow=none;strokeColor=default;" edge="1" parent="1" source="t_XmNheDpT8PTCENix25-71" target="t_XmNheDpT8PTCENix25-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_XmNheDpT8PTCENix25-71" value="Số&lt;br&gt;điện thoại" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="t_XmNheDpT8PTCENix25-71" value="Số&lt;br style=&quot;font-size: 9px;&quot;&gt;điện thoại" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="250" y="584.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_XmNheDpT8PTCENix25-72" value="Họ tên" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
