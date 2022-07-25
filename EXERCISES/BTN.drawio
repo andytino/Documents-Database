@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T13:07:51.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gcGhSkLbg7kD8tz5RPzq" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T13:07:57.894Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ETUFzUjU5ku2CvfFiIIK" version="20.1.1" type="github">
   <diagram id="HZ95XB72LbMbbIZSBHjl" name="Page-1">
     <mxGraphModel dx="901" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
         <mxCell id="t_XmNheDpT8PTCENix25-61" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.586;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=10;fontColor=default;endArrow=none;strokeColor=default;" edge="1" parent="1" source="t_XmNheDpT8PTCENix25-51" target="t_XmNheDpT8PTCENix25-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_XmNheDpT8PTCENix25-51" value="Số&lt;br&gt;điện thoại" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="t_XmNheDpT8PTCENix25-51" value="Số&lt;br style=&quot;font-size: 9px;&quot;&gt;điện thoại" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="630" y="585" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_XmNheDpT8PTCENix25-58" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=10;fontColor=default;endArrow=none;strokeColor=default;" edge="1" parent="1" source="t_XmNheDpT8PTCENix25-53" target="t_XmNheDpT8PTCENix25-5">
@@ -263,7 +263,7 @@
         <mxCell id="t_XmNheDpT8PTCENix25-88" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=10;fontColor=default;endArrow=none;strokeColor=default;" edge="1" parent="1" source="t_XmNheDpT8PTCENix25-86" target="t_XmNheDpT8PTCENix25-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t_XmNheDpT8PTCENix25-86" value="&amp;nbsp;Tiền thuê&lt;br&gt;1 tháng" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="t_XmNheDpT8PTCENix25-86" value="&amp;nbsp;Tiền thuê&lt;br style=&quot;font-size: 9px;&quot;&gt;1 tháng" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="430" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t_XmNheDpT8PTCENix25-100" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=10;fontColor=default;endArrow=none;strokeColor=default;" edge="1" parent="1" source="t_XmNheDpT8PTCENix25-93" target="t_XmNheDpT8PTCENix25-1">
