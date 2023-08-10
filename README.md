@@ -1,1 +1,1 @@
-# KHTN_CSDL
+# Tài liệu môn học Cơ sở dữ liệu
