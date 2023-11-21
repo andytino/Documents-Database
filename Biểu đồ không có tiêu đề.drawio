@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T08:43:30.202Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="k9uQkhTNaZNz7txaec-d" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T08:47:52.825Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ConGNvfyJ98qRi1fdYcI" version="22.1.3" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-1" value="Hệ thống Quản lý CMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-1" value="Hệ thống Quản lý CMS&lt;br&gt;(Admin, Tổng đài viên)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="140" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3MXWrsa33R4VXwm1Q6iQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3MXWrsa33R4VXwm1Q6iQ-2" target="3MXWrsa33R4VXwm1Q6iQ-11">
@@ -155,7 +155,7 @@
         <mxCell id="3MXWrsa33R4VXwm1Q6iQ-39" value="Tìm tài xế" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="420" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-65" value="Ứng dụng đặt xe cho khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-65" value="Ứng dụng đặt xe&lt;br&gt;( khách hàng )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="680" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3MXWrsa33R4VXwm1Q6iQ-66" value="Trang chủ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -199,6 +199,39 @@
         </mxCell>
         <mxCell id="3MXWrsa33R4VXwm1Q6iQ-80" value="Chat box" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="990" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-81" value="Huỷ chuyến" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="990" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-82" value="Đánh giá tài xế" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1070" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-84" value="Ứng dụng nhận chuyến xe&lt;br&gt;(Tài xế)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1180" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-85" value="Trang chủ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-86" value="Quản lý &lt;br&gt;Tài khoản" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-87" value="Quản lý &lt;br&gt;Chuyến đi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="467" y="1260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-88" value="Hỗ Trợ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-89" value="Hiển thị&lt;br&gt;Form đặt xe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1330" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-90" value="Đặt xe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1410" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-91" value="Huỷ chuyến" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1490" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-92" value="Đánh giá tài xế" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1570" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
