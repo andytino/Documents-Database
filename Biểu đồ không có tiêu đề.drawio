@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T09:58:15.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9n4-jV8JPCmJHy9AMWj4" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T10:04:09.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ap4XSwPNOrNvzxBXD1fS" version="22.1.3" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1972" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -513,7 +513,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-146" value="Ứng dụng đặt chuyến xe&lt;br&gt;(Tài xế" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="3MXWrsa33R4VXwm1Q6iQ-182">
+        <mxCell id="3MXWrsa33R4VXwm1Q6iQ-146" value="Ứng dụng nhận&lt;br&gt;&amp;nbsp;chuyến xe&lt;br&gt;(Tài xế)" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="3MXWrsa33R4VXwm1Q6iQ-182">
           <mxGeometry x="645" y="110" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3MXWrsa33R4VXwm1Q6iQ-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="3MXWrsa33R4VXwm1Q6iQ-182" source="3MXWrsa33R4VXwm1Q6iQ-141" target="3MXWrsa33R4VXwm1Q6iQ-146">
